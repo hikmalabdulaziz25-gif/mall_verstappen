@@ -1,0 +1,46 @@
+[
+    {
+        "nomor_antrean": 3,
+        "nama": "Ahmad Fauzan",
+        "umur": 50,
+        "jenis_kelamin": "Laki-laki",
+        "alamat": "Jalan Nagahuta",
+        "telepon": "081265659880",
+        "jenis_pasien": "BPJS",
+        "poli": "Poli Penyakit Dalam",
+        "keluhan": "Nyeri Sendi"
+    },
+    {
+        "nomor_antrean": 4,
+        "nama": "Hikmal Abdul Aziz",
+        "umur": 22,
+        "jenis_kelamin": "Laki-laki",
+        "alamat": "Jl Nagahuta",
+        "telepon": "082363975014",
+        "jenis_pasien": "Umum",
+        "poli": "Poli Umum",
+        "keluhan": "Demam"
+    },
+    {
+        "nomor_antrean": 5,
+        "nama": "Ahmad Mauzaqi",
+        "umur": 23,
+        "jenis_kelamin": "Laki-laki",
+        "alamat": "Jl Beringin",
+        "telepon": "084365478654",
+        "jenis_pasien": "BPJS",
+        "poli": "Poli Umum",
+        "keluhan": "Demam Berdarah"
+    },
+    {
+        "nomor_antrean": 6,
+        "nama": "Ilham Abdul Hanif",
+        "umur": 32,
+        "jenis_kelamin": "Laki-laki",
+        "alamat": "Dolok Merawan",
+        "telepon": "082354675432",
+        "jenis_pasien": "BPJS",
+        "poli": "Poli Penyakit Dalam",
+        "keluhan": "Lambung"
+    }
+]
